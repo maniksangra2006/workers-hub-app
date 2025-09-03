@@ -13,10 +13,15 @@ A Flutter-based mobile application that connects clients with skilled workers. U
 
  # Features
  ‣ Clean and responsive UI
+ 
  ‣ User friendly
- ‣  Almost every service provided
+ 
+ ‣ Almost every service provided
+ 
  ‣ Easy bookings
+ 
  ‣ Firestore integrated
+ 
  ‣ Payment gateway integrated
  
 
