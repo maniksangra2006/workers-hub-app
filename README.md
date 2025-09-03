@@ -2,7 +2,7 @@
 
 
 A Flutter-based mobile application that connects clients with skilled workers. Users can register as either a Worker (plumber, carpenter, electrician, etc.) or a Client (someone looking to hire services). Clients can browse workers, book services, and confirm work slots. All authentication and booking data is stored securely in Firebase.
-Getting Started
+# Tech Stack
 
 This project is a starting point for a Flutter application.
 
