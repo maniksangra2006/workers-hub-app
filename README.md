@@ -1,7 +1,7 @@
 # <img width="28" height="28" alt="image" src="https://github.com/user-attachments/assets/4db6ed82-8867-4f93-af6d-650e4a9e359a" /> Workers-Hub
 
 
-A Flutter-based mobile application that connects clients with skilled workers. Users can register as either a Worker (plumber, carpenter, electrician, etc.) or a Client (someone looking to hire services). Clients can browse workers, book services, and confirm work slots. All authentication and booking data is stored securely in Firebase.
+A Flutter-based mobile application that connects clients with skilled workers. Users can register as a Worker (plumber, carpenter, electrician, etc.) . Clients can browse workers, book services, and confirm work slots. All authentication and booking data is stored securely in Firebase.
 # Tech Stack
  <img width="60" height="60" alt="image" src="https://github.com/user-attachments/assets/32f1edef-8228-49c4-8bdb-d5dc77b44b6a" /> 
 
