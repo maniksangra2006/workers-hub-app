@@ -11,4 +11,4 @@ A Flutter-based mobile application that connects clients with skilled workers. U
 
  <img width="62" height="72" alt="Screenshot 2025-09-03 at 9 09 40 PM" src="https://github.com/user-attachments/assets/459a4c7b-e69d-4ae9-82cb-a9a40c11b097" />
 
- 
+ # Application Snippets
