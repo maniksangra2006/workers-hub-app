@@ -5,7 +5,7 @@ A Flutter-based mobile application that connects clients with skilled workers. U
 # Tech Stack
  <img width="55" height="55" alt="image" src="https://github.com/user-attachments/assets/32f1edef-8228-49c4-8bdb-d5dc77b44b6a" />
 
-<img width="55" height="55" alt="image" src="https://github.com/user-attachments/assets/b9a3a5e4-2563-49eb-998c-e55b9d6fa94c" />
+ <img width="55" height="55" alt="image" src="https://github.com/user-attachments/assets/d4926842-359f-4c45-9346-43b6d7092b61" />
 
 <img width="55" height="55" alt="image" src="https://github.com/user-attachments/assets/fbfec83d-54e0-414e-b917-4ed5b83835be" />
 
